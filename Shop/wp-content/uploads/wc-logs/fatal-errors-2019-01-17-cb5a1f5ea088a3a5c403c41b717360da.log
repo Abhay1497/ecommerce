@@ -1,0 +1,8 @@
+2019-01-17T08:16:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Shop\wp-includes\widgets\class-wp-widget-meta.php on line 19
+
+2019-01-17T11:41:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Shop\wp-includes\http.php on line 543
+
+2019-01-17T11:51:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Shop\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-01-17T11:53:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Shop\wp-includes\Requests\Transport\cURL.php on line 163
+
